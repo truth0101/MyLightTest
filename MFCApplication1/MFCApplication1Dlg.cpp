@@ -101,6 +101,10 @@ BOOL CMFCApplication1Dlg::OnInitDialog()
 
 	// TODO: 在此添加额外的初始化代码
 
+	int i;
+
+	i = 0;
+
 	return TRUE;  // 除非将焦点设置到控件，否则返回 TRUE
 }
 
